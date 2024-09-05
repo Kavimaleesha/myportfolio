@@ -1,6 +1,7 @@
 import React from 'react'
 import heroimage from '../assets/profilepic7.png'
 import { TypeAnimation } from 'react-type-animation';
+import resume from './Resume/Kavindu_Maleesha_CV.pdf'
 
 const Hero = () => {
   return (
@@ -36,10 +37,11 @@ const Hero = () => {
             </p>
 
         <div className='my-8'>
-            <a href="/" className="px-6 py-3 w-full rounded-xl mr-4
+            <a href={resume} target='blank' className="px-6 py-3 w-full rounded-xl mr-4
                     bg-gradient-to-br from-orange-500 to-pink-500 text-white">
                         Download CV
                     </a>
+
                     <a href="#contact" className="px-6 py-3 w-full rounded-xl 
                     border border-gray-400 hover:bg-gradient-to-br from-orange-500 to-pink-500
                     text-white hover:border-none">

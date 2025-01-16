@@ -1,21 +1,19 @@
-import About from "./components/About";
-import Contact from "./components/Contact";
-import Hero from "./components/Hero";
-import Navbar from "./components/Navbar";
-import Skills from "./components/Skills";
-import Work from "./components/Work";
-import Footer from "./components/Footer";
+import './App.css';
+import Navbar from './components/Navbar';
+import Home from './components/Home';
+import Projects from './components/Projects';
+import Contact from './components/Contact';
+import Education from './components/Education';
 
 function App() {
   return (
-    <div>
-      <Navbar/>
-      <Hero/>
-      <Skills/>
-      <About/>
-      <Work/>
-      <Contact/>
-      <Footer/>
+    <div className="bg-black">
+      <Navbar />
+      <Home />
+      <Projects />
+      <Education />
+      <Contact />
+      <h5 className='text-white text-center py-6'>© 2025 Kavindu Maleesha</h5>
     </div>
   );
 }

@@ -1,5 +1,5 @@
 {
-  "homepage": "http://partisan2.github.io/portfolio",
+  "homepage": "http://Kavimaleesha.github.io/myportfolio",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -18,7 +18,7 @@
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build -r https://github.com/partisan2/portfolio.git",
+    "deploy": "gh-pages -d build -r https://github.com/Kavimaleesha/myportfolio.git",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"

@@ -24,26 +24,28 @@ const Contact = () => {
       };
   return (
     <div className='mt-20 flex justify-around flex-wrap'>
-      <div className='mx-10'>
-        <h2 className='text-teal-600 text-3xl py-4'>CONTACT</h2>
-        <div className='py-10 px-10'>
+      <div className='mx-15'>
+        <h2 className='text-white text-3xl'>CONTACT</h2>
+        <div className='py-10 px-10 md:mt-15'>
             <form ref={form} onSubmit={sendEmail}>
                 <input type="text" placeholder='Name' name="name" className='p-5 my-2 rounded-md block md:w-[300px]' required/>
                 <input type="text" placeholder='Email' name='email' className='p-5 my-2 rounded-md block md:w-[300px]' required/>
                 <input type="text" placeholder='Phone' name='email' className='p-5 my-2 rounded-md block md:w-[300px]'/>
                 <textarea type="text" name='message' placeholder='Message' className='p-5 my-2 rounded-md block' cols={33} rows={10} required></textarea>
-                <button className='text-white bg-gradient-to-r from-teal-600 to-cyan-500 px-5 py-3 rounded-lg mt-2'>SEND</button>
+                <button className='text-white bg-gradient-to-r from-yellow-600 to-blue-500 px-6 py-3 rounded-lg mt-3'>SEND</button>
             </form>
         </div>
       </div>
-      <div className='py-30 md:mt-10'>
-        <h3 className='text-teal-300 text-2xl pt-10'>EMAIL</h3>
+      <div className='flex justify-around flex-wrap'>
+      <div className='py-10 px-10 md:mt-10'>
+        <h3 className='text-yellow-300 text-2xl pt-15'>EMAIL</h3>
         <h4 className='text-gray-400'>kaviigunawardhana2000@gmail.com</h4>
-        <h3 className='text-teal-300 text-2xl pt-10'>LINKEDIN</h3>
+        <h3 className='text-yellow-300 text-2xl pt-10'>LINKEDIN</h3>
         <h4 className='text-gray-400'><a href='https://www.linkedin.com/in/kavindu-maleesha-93b952219/' target='blank'>Kavindu Maleesha</a></h4>
-        <h3 className='text-teal-300 text-2xl pt-10'>GITHUB</h3>
+        <h3 className='text-yellow-300 text-2xl pt-10'>GITHUB</h3>
         <h4 className='text-gray-400'><a href='https://github.com/Kavimaleesha' target='blank'>Kavindu Maleesha</a></h4>
       </div>
+    </div>
     </div>
   )
 }

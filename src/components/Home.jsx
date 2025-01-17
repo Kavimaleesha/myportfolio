@@ -6,10 +6,10 @@ const Home = () => {
   return (
     <div>
       <div className='flex mx-auto items-center justify-center mt-20'>
-        <img src={kmpic} alt="" className='w-80 h-80 size-fit bg-gradient-to-b from-teal-500 rounded-full' />
+        <img src={kmpic} alt="" className='w-80 h-80 size-fit bg-gradient-to-b from-yellow-100 rounded-full' />
       </div>
       <div className='text-center p-10'>
-        <h2 className='text-5xl py-2 text-teal-600 font-medium'>Kavindu Maleesha</h2>
+        <h2 className='text-5xl py-2 text-yellow-600 font-medium'>Kavindu Maleesha</h2>
         <h3 className='text-2xl py-2 text-white'>Software Engineer</h3>
         <div className='flex justify-center'>
           <p className='text-md py-5 leading-5 text-gray-400 md:text-lg md:w-[800px] '>

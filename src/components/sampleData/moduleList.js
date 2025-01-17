@@ -90,48 +90,86 @@ export const moduleList = [
 export const projectList = [
     {
         id:1,
-        projectName:"Tourism Web Site",
-        projectDiscription:"Web Site for display details about Sri Lanka.",
+        projectName:"Hirely AI Web Site",
+        projectDiscription:" AI Powered Hiring Platform",
         projectTools:[
             {
-                tool:"HTML"
+                tool:"React JS"
             },
             {
-                tool:"CSS"
+                tool:"Node JS"
             },
             {
-                tool:"Js"
+                tool:"Mongo DB"
             },
             {
-                tool:"Vue JS"
+                tool:"Tailwind CSS"
+            },
+            {
+                tool:"Expess Js"
             },
 
         ]
     },
     {
         id:2,
-        projectName:"Cab Service System",
-        projectDiscription:"Calculate price of cab serice based on vehicle type, number of passengers and payload.",
+        projectName:"User Management System ",
+        projectDiscription:"User Management System using MERN Stack CRUD Application..",
         projectTools:[
             {
-                tool:"Python"
+                tool:"React JS"
             },
-
+            {
+                tool:"Node JS"
+            },
+            {
+                tool:"Mongo DB"
+            },
+            {
+                tool:"Expess Js"
+            },
         ]
     },
     {
         id:3,
-        projectName:"Employee Salary System",
-        projectDiscription:"Calculate Employee salary using java oop concepts.",
+        projectName:"FitClub - Gym Website",
+        projectDiscription:"Website for Gym.",
         projectTools:[
             {
-                tool:"Java"
+                tool:"Ract Js"
             },
+            {
+                tool:"CSS"
+            },
+
 
         ]
     },
     {
         id:4,
+        projectName:"Clinical Care",
+        projectDiscription:"Website for Patients to Reserve Clinical Time Slots. (Group project)",
+        projectTools:[
+            {
+                tool:"PHP"
+            },
+            {
+                tool:"SQL"
+            },
+            {
+                tool:"HTML"
+            },
+            {
+                tool:"JavaScript"
+            },
+            {
+                tool:"CSS"
+            },
+
+        ]
+    },
+    {
+        id:5,
         projectName:"eBook App",
         projectDiscription:"ebook app for library using react native where user can view book information.",
         projectTools:[
@@ -145,38 +183,34 @@ export const projectList = [
         ]
     },
     {
-        id:5,
-        projectName:"Web Site",
-        projectDiscription:"Web site front-end for leo club baddegama.",
-        projectTools:[
-            {
-                tool:"Ract JS"
-            },
-            {
-                tool:"CSS"
-            },
-
-        ]
-    },
-    {
         id:6,
-        projectName:"Parent, Teacher Collabaration App",
-        projectDiscription:"Platform to communicate between teachers and parents. (Group project)",
+        projectName:"Tourism Website about Sri Lanka",
+        projectDiscription:"Web Site for display details about Sri Lanka.",
         projectTools:[
             {
-                tool:"Ract JS"
+                tool:"HTML"
             },
             {
                 tool:"CSS"
             },
             {
-                tool:"Firebase"
+                tool:"JavaScript"
             },
-
         ]
     },
     {
         id:7,
+        projectName:"Cab Service System",
+        projectDiscription:"Calculate price of cab serice based on vehicle type, number of passengers and payload.",
+        projectTools:[
+            {
+                tool:"Python"
+            },
+
+        ]
+    },
+    {
+        id:8,
         projectName:"Crud Forum",
         projectDiscription:"Web application perform crud opperations using php. ",
         projectTools:[
@@ -192,17 +226,18 @@ export const projectList = [
         ]
     },
     {
-        id:8,
-        projectName:"Employee Management System",
-        projectDiscription:"Application perform task to manage employee details ",
+        id:9,
+        projectName:"Portfolio",
+        projectDiscription:"My Portfolio - Kavindu Maleesha",
         projectTools:[
             {
-                tool:"Java"
+                tool:"React JS"
             },
             {
-                tool:"Hibernate"
+                tool:"CSS"
             },
         ]
     },
+
 ]
 

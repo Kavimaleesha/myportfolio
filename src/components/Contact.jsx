@@ -39,7 +39,7 @@ const Contact = () => {
       <div className='flex justify-around flex-wrap'>
       <div className='py-10 px-10 md:mt-10'>
         <h3 className='text-yellow-300 text-2xl pt-15'>EMAIL</h3>
-        <h4 className='text-gray-400'>kaviigunawardhana2000@gmail.com</h4>
+        <h4 className='text-gray-400'><a href="kaviigunawardhana2000@gmail.com" target='blank'>kaviigunawardhana2000@gmail.com</a></h4>
         <h3 className='text-yellow-300 text-2xl pt-10'>LINKEDIN</h3>
         <h4 className='text-gray-400'><a href='https://www.linkedin.com/in/kavindu-maleesha-93b952219/' target='blank'>Kavindu Maleesha</a></h4>
         <h3 className='text-yellow-300 text-2xl pt-10'>GITHUB</h3>

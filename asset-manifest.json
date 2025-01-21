@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.ac6d57e9.css",
+    "main.js": "/myportfolio/static/js/main.db5c53a6.js",
+    "static/media/kavinduimage.png": "/myportfolio/static/media/kavinduimage.eeaa1a0eb028b32677a6.png",
+    "static/media/resume.pdf": "/myportfolio/static/media/resume.94df0d63cbe98a716b80.pdf",
+    "index.html": "/myportfolio/index.html",
+    "main.ac6d57e9.css.map": "/myportfolio/static/css/main.ac6d57e9.css.map",
+    "main.db5c53a6.js.map": "/myportfolio/static/js/main.db5c53a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac6d57e9.css",
+    "static/js/main.db5c53a6.js"
+  ]
+}

@@ -92,6 +92,7 @@ export const projectList = [
         id:1,
         projectName:"Hirely AI Web Site",
         projectDiscription:" AI Powered Hiring Platform",
+        ProjectLink_id1:"Hirely AI" ,
         projectTools:[
             {
                 tool:"React JS"
@@ -108,7 +109,6 @@ export const projectList = [
             {
                 tool:"Expess Js"
             },
-
         ]
     },
     {

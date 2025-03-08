@@ -132,17 +132,12 @@ export const projectList = [
     },
     {
         id:3,
-        projectName:"FitClub - Gym Website",
-        projectDiscription:"Website for Gym.",
+        projectName:"Music Play List App",
+        projectDiscription:"A simple Java Music Player using OOP concepts. Users can create albums, add songs, and manage a playlist with options like play, skip, repeat, and remove songs.",
         projectTools:[
             {
-                tool:"Ract Js"
+                tool:"Java"
             },
-            {
-                tool:"CSS"
-            },
-
-
         ]
     },
     {
@@ -170,20 +165,31 @@ export const projectList = [
     },
     {
         id:5,
-        projectName:"eBook App",
-        projectDiscription:"ebook app for library using react native where user can view book information.",
+        projectName:"Food Bill Generator",
+        projectDiscription:"Food Bill Generator is a simple Java program that calculates the total cost of a fried rice order. Users can choose vegetarian or non-vegetarian, add extra items, and select take-away. It uses OOP concepts to keep the code clean and organized.",
         projectTools:[
             {
-                tool:"Ract Native"
+                tool:"Java"
+            },
+        ]
+    },
+    {
+        id:6,
+        projectName:"FitClub - Gym Website",
+        projectDiscription:"Website for Gym.",
+        projectTools:[
+            {
+                tool:"Ract Js"
             },
             {
                 tool:"CSS"
             },
 
+
         ]
     },
     {
-        id:6,
+        id:7,
         projectName:"Tourism Website about Sri Lanka",
         projectDiscription:"Web Site for display details about Sri Lanka.",
         projectTools:[
@@ -199,7 +205,7 @@ export const projectList = [
         ]
     },
     {
-        id:7,
+        id:8,
         projectName:"Cab Service System",
         projectDiscription:"Calculate price of cab serice based on vehicle type, number of passengers and payload.",
         projectTools:[
@@ -210,7 +216,7 @@ export const projectList = [
         ]
     },
     {
-        id:8,
+        id:9,
         projectName:"Crud Forum",
         projectDiscription:"Web application perform crud opperations using php. ",
         projectTools:[
@@ -226,7 +232,7 @@ export const projectList = [
         ]
     },
     {
-        id:9,
+        id:10,
         projectName:"Portfolio",
         projectDiscription:"My Portfolio - Kavindu Maleesha",
         projectTools:[

@@ -44,6 +44,8 @@ const Contact = () => {
         <h4 className='text-gray-400'><a href='https://www.linkedin.com/in/kavindu-maleesha-93b952219/' target='blank'>Kavindu Maleesha</a></h4>
         <h3 className='text-yellow-300 text-2xl pt-10'>GITHUB</h3>
         <h4 className='text-gray-400'><a href='https://github.com/Kavimaleesha' target='blank'>Kavindu Maleesha</a></h4>
+        <h3 className='text-yellow-300 text-2xl pt-10'>FUTURE CAREERS BRIDGE</h3>
+        <h4 className='text-gray-400'><a href='https://app.futurecareersbridge.net/public-profile/10164' target='blank'>Kavindu Maleesha</a></h4>
       </div>
     </div>
     </div>

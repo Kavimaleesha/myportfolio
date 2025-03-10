@@ -114,7 +114,7 @@ export const projectList = [
     {
         id:2,
         projectName:"User Management System ",
-        projectDiscription:"User Management System using MERN Stack CRUD Application..",
+        projectDiscription:"A full-stack CRUD application using the MERN stack, enabling efficient user management with React.js, Node.js, Express.js, and MongoDB.",
         projectTools:[
             {
                 tool:"React JS"
@@ -191,7 +191,7 @@ export const projectList = [
     {
         id:7,
         projectName:"Tourism Website about Sri Lanka",
-        projectDiscription:"Web Site for display details about Sri Lanka.",
+        projectDiscription:" A web platform promoting tourism in Sri Lanka, highlighting key attractions and travel information.",
         projectTools:[
             {
                 tool:"HTML"
